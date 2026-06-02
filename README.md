@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Cletus Samuel 👋
 
-<!--
-**Samuel-code1/Samuel-code1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer passionate about building modern and responsive websites.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML5
+* CSS3
+* JavaScript
+* Git
+* GitHub
+
+## 📚 Currently Learning
+
+* Advanced JavaScript
+* Responsive Design
+* Web Development for businesses 
+
+## 🛠 Projects
+
+### Perfume E-Commerce Website
+
+A modern perfume store built with HTML, CSS and JavaScript.
+
+### About Me Website
+
+A personal portfolio page showcasing my journey into tech.
+
+### School Screening Portal Login Page
+
+A responsive login interface built with modern CSS.
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/Samuel-code1
+* TikTok: https://www.tiktok.com/@gentlecodeit
+* Facebook: https://www.facebook.com/share/1D1sGx9Rd3
