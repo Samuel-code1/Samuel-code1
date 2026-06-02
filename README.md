@@ -1,4 +1,4 @@
-# Hi, I'm Cletus Samuel 👋
+# Hi 👋, I'm Cletus Samuel
 
 Frontend Developer passionate about building modern and responsive websites.
 
